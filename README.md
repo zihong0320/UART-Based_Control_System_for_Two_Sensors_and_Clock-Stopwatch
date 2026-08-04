@@ -185,4 +185,4 @@ https://github.com/user-attachments/assets/bf98f1e0-414b-43ff-b525-599eec56f87b
   * 첫 번째 Flip-Flop에서 발생할 수 있는 메타스테빌리티가 두 번째 Flip-Flop으로 전달되기 전 안정화(Settling)될 수 있는 1 Clock Cycle의 시간적 유예를 확보함.
 
 * **고찰 (Retrospective)**
-  * 물리적인 외부 센서와의 인터페이스 시 CDC(Clock Domain Crossing) 및 비동기 입력 신호 처리가 하드웨어 안정성에 미치는 결정적인 영향을 확인하였으며, 모든 외부 입력 신호에 대해 Synchronizer 적용을 표준화함.
+  * 물리적인 외부 센서와의 인터페이스 시 CDC(Clock Domain Crossing) 및 비동기 입력 신호 처리가 하드웨어 안정성에 미치는 결정적인 영향을 확인하였으며, 모든 외부 입력 신호에 대해 Synchronizer 적용.
