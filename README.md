@@ -57,7 +57,11 @@ UART 기반 센서 2종 및 시계/스톱워치 제어 시스템 설계 및 시�
 
 ### 3.2 Demo Video
 
-https://drive.google.com/drive/folders/1RicdimJwJyNwnNuW29Or-r20GhMrQ4LW
+
+
+https://github.com/user-attachments/assets/bf98f1e0-414b-43ff-b525-599eec56f87b
+
+
 
 
 
