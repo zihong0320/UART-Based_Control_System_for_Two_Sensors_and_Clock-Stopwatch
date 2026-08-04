@@ -1,5 +1,5 @@
 # UART-Based_Control_System_for_Two_Sensors_and_Clock-Stopwatch
-UART-Based_Control_System_for_Two_Sensors_and_Clock-Stopwatch
+
 UART 기반 센서 2종 및 시계/스톱워치 제어 시스템 설계 및 시뮬레이션
 
 
