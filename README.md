@@ -51,7 +51,7 @@
 ### 1.2 DHT11 Temperature & Humidity Sensor
 
 <p align="center">
-  <img width="30%" alt="DHT11 Sensor" src="https://github.com/user-attachments/assets/fa9e9b22-51c6-4b58-a740-01be0a37855d" />
+  <img width="20%" alt="DHT11 Sensor" src="https://github.com/user-attachments/assets/fa9e9b22-51c6-4b58-a740-01be0a37855d" />
   <img width="65%" alt="DHT11 Operation" src="https://github.com/user-attachments/assets/cd741dbf-e071-4737-81b4-849e9f9fcba1" />
 </p>
 
